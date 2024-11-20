@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreProjectSonar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9f0217703ddaa0ee59e3b33e302bb48ec37712")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreProjectSonar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreProjectSonar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
