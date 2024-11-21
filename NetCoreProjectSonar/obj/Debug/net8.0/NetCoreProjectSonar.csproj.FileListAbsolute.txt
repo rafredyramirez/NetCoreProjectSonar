@@ -26,9 +26,9 @@ C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\ne
 C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetCoreProjectSonar.props
 C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NetCoreProjectSonar.props
 C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\NetCoreProjectSonar.dll
 C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\refint\NetCoreProjectSonar.dll
 C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\NetCoreProjectSonar.pdb
 C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\NetCoreProjectSonar.genruntimeconfig.cache
 C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\ref\NetCoreProjectSonar.dll
+C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\NetCoreProjectSonar.sourcelink.json

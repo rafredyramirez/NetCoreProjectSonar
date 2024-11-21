@@ -1,0 +1,1 @@
+C:\Users\rafre\source\repos\NetCoreProjectSonar\.sonarqube\out\0

@@ -1,0 +1,9 @@
+à
+}C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\NetCoreProjectSonar.RazorAssemblyInfo.csutf-8É
+xC:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\NetCoreProjectSonar.AssemblyInfo.csutf-8è
+ÉC:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8Ö
+zC:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\obj\Debug\net8.0\NetCoreProjectSonar.GlobalUsings.g.csutf-8W
+NC:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\Program.csutf-8d
+[C:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\Pages\Privacy.cshtml.csutf-8b
+YC:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\Pages\Index.cshtml.csutf-8b
+YC:\Users\rafre\source\repos\NetCoreProjectSonar\NetCoreProjectSonar\Pages\Error.cshtml.csutf-8
